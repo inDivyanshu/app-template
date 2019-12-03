@@ -1,0 +1,7 @@
+{
+  "name": "wigglypuff vendor",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
